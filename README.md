@@ -10,7 +10,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python+%7C+Django+%7C+Flask;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;I'm  Quoc+Anh;Python+%7C+Django+%7C+Flask;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <br>
 

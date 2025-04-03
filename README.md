@@ -2,8 +2,6 @@
   
 # ✨ QuocAnhh ✨
 
-### Python Developer | Open Source Enthusiast | Continuous Learner
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello%20World&fontSize=50&animation=fadeIn&fontAlignY=40" />
@@ -48,19 +46,6 @@
   
   [![QuocAnhh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QuocAnhh&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-</div>
-
-<br>
 
 ## 🌐 Socials
 

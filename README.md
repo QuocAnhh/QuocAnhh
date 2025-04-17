@@ -26,27 +26,6 @@
 
 <br>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img width="450px" src="https://github-readme-stats.vercel.app/api?username=QuocAnhh&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true&custom_title=QuocAnhh%27s+GitHub+Stats" />
-      </td>
-      <td>
-        <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuocAnhh&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&hide_border=true&card_width=445" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=QuocAnhh&theme=radical&hide_border=true&background=0D1117&stroke=DD6387&ring=DD2727&fire=DD2727&currStreakNum=36BCF7" alt="GitHub Streak"/>
-  
-  [![QuocAnhh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QuocAnhh&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
 ## 🌐 Socials
 
 <div align="center">

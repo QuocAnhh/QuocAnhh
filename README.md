@@ -47,6 +47,10 @@
 [![Chess with AI](https://github-readme-stats.vercel.app/api/pin/?username=QuocAnhh&repo=Chess-with-AI&theme=radical&show_owner=true)](https://github.com/QuocAnhh/Chess-with-AI)
 </div>
 
+<div align="right">
+[![Face_Recognition](https://github-readme-stats.vercel.app/api/pin/?username=QuocAnhh&repo=Chess-with-AI&theme=radical&show_owner=true)](https://github.com/QuocAnhh/Face_Recognition).
+</div>
+
 <br>
 
 <div align="center">

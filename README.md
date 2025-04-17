@@ -42,14 +42,14 @@
 
 ## 📌 Pinned Repositories
 
-<div align="center">
+<div>
   
 [![Chess with AI](https://github-readme-stats.vercel.app/api/pin/?username=QuocAnhh&repo=Chess-with-AI&theme=radical&show_owner=true)](https://github.com/QuocAnhh/Chess-with-AI)
 </div>
 
-<div align="right">
+<div>
   
-[![Face_Recognition](https://github-readme-stats.vercel.app/api/pin/?username=QuocAnhh&repo=Chess-with-AI&theme=radical&show_owner=true)](https://github.com/QuocAnhh/Face_Recognition).
+[![Face_Recognition](https://github-readme-stats.vercel.app/api/pin/?username=QuocAnhh&repo=Face_Recognition&theme=radical&show_owner=true)](https://github.com/QuocAnhh/Face_Recognition).
 </div>
 
 <br>

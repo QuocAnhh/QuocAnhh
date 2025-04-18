@@ -38,22 +38,6 @@
 
 </div>
 
-<br>
-
-## 📌 Pinned Repositories
-
-<div>
-  
-[![Chess with AI](https://github-readme-stats.vercel.app/api/pin/?username=QuocAnhh&repo=Chess-with-AI&theme=radical&show_owner=true)](https://github.com/QuocAnhh/Chess-with-AI)
-</div>
-
-<div>
-  
-[![Face_Recognition](https://github-readme-stats.vercel.app/api/pin/?username=QuocAnhh&repo=Face_Recognition&theme=radical&show_owner=true)](https://github.com/QuocAnhh/Face_Recognition).
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The_only_way_to_learn_to_code_is_by_writing_code.&author=David_Malan" alt="Dev Quote"/>
 </div>

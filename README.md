@@ -1,7 +1,5 @@
 <div align="center">
 
-# Quoc Anh — AI Engineer & Product Builder
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:7c3aed&height=160&section=header&text=Hello%20World%20_%20QuocAnhh&fontSize=48&animation=twinkling&fontAlignY=35&fontColor=fff" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=900&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Ship+AI+products+that+matter+%F0%9F%9A%80;Python+%7C+FastAPI+%7C+LLM+Engineering+%F0%9F%90%8D;Playwright+%7C+RAG+%7C+Prompt+Ops+%E2%9A%A1;Build%E2%80%94Test%E2%80%94Deploy%E2%80%94Repeat+%F0%9F%94%84;Move+fast%2C+measure%2C+ship+%F0%9F%93%88" alt="Typing SVG" /></a>

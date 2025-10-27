@@ -83,10 +83,10 @@ class QuocAnh:
 🎯 **Passion**: Building practical AI tools that solve real problems
 
 💼 **Expertise**:
-- 🤖 Conversational AI (chatbots, callbots)
+- 🤖 Xây **LLM/Chatbot/Callbot** có log & guardrails
 - 🧪 Automated Testing (Playwright, LLM evaluation)
 - 📊 NLP & Data Analysis
-- ⚡ FastAPI backend development
+- ⚡ **Backend**: FastAPI · Docker · AWS · Nginx
 
 🌱 **Currently**: Shipping production AI systems while studying
 

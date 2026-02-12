@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
@@ -71,39 +71,3 @@ I build **production-ready AI systems** that solve real-world problems.
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuocAnhh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=QuocAnhh&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<div align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuocAnhh&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</div>
-
----
-
-<div align="center">
-
-### 💡 Daily Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
----
-
-### 🤝 Open to Collaboration!
-
-**Let's build something amazing together** 🚀
-
-[![Contact Me](https://img.shields.io/badge/Let's_Talk-00b894?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quocanhnguyen.work@gmail.com)
-
-<br/>
-
-**⭐️ From [QuocAnhh](https://github.com/QuocAnhh) with 💜**
-
-</div>

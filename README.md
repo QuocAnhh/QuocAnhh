@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nguyễn Quốc Anh
 
-**AI Engineer** • **CS Student @ HUMG** • **Based in Hanoi 🇻🇳**
+**AI Engineer at BIVA HotlineAI** • **CS Student @ HUMG** • **Based in Hanoi 🇻🇳**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
@@ -25,25 +25,27 @@
 I build **production-ready AI systems** that solve real-world problems.
 
 **Core Focus:**
-- 🤖 LLM Applications & RAG Systems
-- 💬 Conversational AI (Chatbots/Callbots)
-- 🎭 Test Automation with Playwright
-- 📊 NLP & Data Analysis
-- ⚡ Backend Development (FastAPI)
+- LLM Applications & RAG Systems
+- Conversational AI (Chatbots/Callbots)
+- Test Automation with Playwright
+- NLP & Data Analysis
+- Backend Development (FastAPI)
 
 **Philosophy:**  
 > Move fast, measure, fix, and keep shipping.
 
 **Currently Working On:**
-- 🚌 **HotlineAI** — Multi-brand bus booking bots
-- 🎭 **BIVA Autotest** — Playwright-based QA automation
-- 📊 **Shopee Analyzer** — Review sentiment analysis
+- Building enterprise RAG systems with multi-channel integration ([**OmniRAG**](https://github.com/QuocAnhh/OmniRAG))
+- AI Engineer & Bot Builder at **BIVA HotlineAI** — developing intelligent chatbots and callbots for customer service automation
+- Scaling LLM applications with production-grade monitoring and logging
 
 <br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,6 +73,8 @@ I build **production-ready AI systems** that solve real-world problems.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
